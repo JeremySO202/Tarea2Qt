@@ -1,0 +1,74 @@
+# ninja log v5
+773	12453	7484254106477910	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+15	618	7484253988067829	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+3753	64338	7484229997274949	CMakeFiles/Tarea2Qt.dir/lib/qcustomplot.cpp.obj	8f0797d483a51ce3
+3747	28780	7484229641659509	CMakeFiles/Tarea2Qt.dir/Tarea2Qt_autogen/mocs_compilation.cpp.obj	9e7ef61ae57c7095
+15	618	7484253988067829	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+15	618	7484253988067829	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+15	618	7484253988067829	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+3770	4873	7484229402495510	CMakeFiles/Tarea2Qt.dir/ListaSimple.cpp.obj	45bc7f8f568eb3c0
+685	1761	7484243216769678	CMakeFiles/Tarea2Qt.dir/sorts.cpp.obj	c9e2125c97d4c8dd
+12453	13800	7484254116312497	Tarea2Qt.exe	9af466ebaf0b60d2
+20	509	7484254946830138	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+20	509	7484254946830138	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+20	509	7484254946830138	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+20	509	7484254946830138	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+660	12073	7484255062495498	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+12075	13189	7484255070215302	Tarea2Qt.exe	9af466ebaf0b60d2
+14	482	7484255236715501	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	482	7484255236715501	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	482	7484255236715501	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	482	7484255236715501	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+600	10352	7484255335419045	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+10353	11366	7484255342473671	Tarea2Qt.exe	9af466ebaf0b60d2
+14	451	7484259367652229	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	451	7484259367652229	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	451	7484259367652229	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	451	7484259367652229	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	476	7484260170741474	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	476	7484260170741474	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	476	7484260170741474	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	476	7484260170741474	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+597	1663	7484260182622250	CMakeFiles/Tarea2Qt.dir/sorts.cpp.obj	c9e2125c97d4c8dd
+18	622	7484260503342613	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+18	622	7484260503342613	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+18	622	7484260503342613	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+18	622	7484260503342613	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	492	7484260658047742	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	492	7484260658047742	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	492	7484260658047742	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	492	7484260658047742	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+610	1576	7484260668925197	CMakeFiles/Tarea2Qt.dir/sorts.cpp.obj	c9e2125c97d4c8dd
+12	464	7484264824647577	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+12	464	7484264824647577	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+12	464	7484264824647577	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+12	464	7484264824647577	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+15	559	7484266327056327	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+15	559	7484266327056327	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+15	559	7484266327056327	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+15	559	7484266327056327	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+693	10753	7484266429017558	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+10755	11820	7484266436386742	Tarea2Qt.exe	9af466ebaf0b60d2
+14	439	7484267447852657	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	439	7484267447852657	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+14	439	7484267447852657	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+14	439	7484267447852657	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+19	578	7484269151769159	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+19	578	7484269151769159	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+19	578	7484269151769159	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+19	578	7484269151769159	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+729	14166	7484269287697259	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+14169	15484	7484269296926359	Tarea2Qt.exe	9af466ebaf0b60d2
+12	394	7484271199046544	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+12	394	7484271199046544	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+12	394	7484271199046544	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+12	394	7484271199046544	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+500	11959	7484271314679398	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+11962	13046	7484271322326331	Tarea2Qt.exe	9af466ebaf0b60d2
+18	503	7484273462583205	Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+18	503	7484273462583205	Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+18	503	7484273462583205	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/timestamp	fc016b6bd48fa190
+18	503	7484273462583205	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release/Tarea2Qt_autogen/mocs_compilation.cpp	fc016b6bd48fa190
+709	1745	7484273475107166	CMakeFiles/Tarea2Qt.dir/sorts.cpp.obj	c9e2125c97d4c8dd
+702	12919	7484273586848525	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	e32502bdeeaf3874
+12921	14086	7484273594780439	Tarea2Qt.exe	9af466ebaf0b60d2

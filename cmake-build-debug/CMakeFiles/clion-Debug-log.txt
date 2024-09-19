@@ -1,0 +1,23 @@
+"E:\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_PREFIX_PATH=E:\Qt\6.7.2\mingw_64 -G Ninja -S "E:\Escritorio\OneDrive - Estudiantes ITCR\TEC\Curso 2024\II Semestre\Datos 2\Tareas\Tarea2Qt" -B "E:\Escritorio\OneDrive - Estudiantes ITCR\TEC\Curso 2024\II Semestre\Datos 2\Tareas\Tarea2Qt\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/CLion 2023.2.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/CLion 2023.2.1/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE  
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (4.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug

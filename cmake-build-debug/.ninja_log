@@ -1,0 +1,22 @@
+# ninja log v5
+485	13596	7484243004231763	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	654d457964fe4db8
+15	386	7484242872201787	Tarea2Qt_autogen/timestamp	467fc6865e9275ee
+3993	45605	7484214078798927	CMakeFiles/Tarea2Qt.dir/lib/qcustomplot.cpp.obj	c604373286d4ee13
+3982	27690	7484213900912702	CMakeFiles/Tarea2Qt.dir/Tarea2Qt_autogen/mocs_compilation.cpp.obj	47c3ae37c18ad7c3
+15	386	7484242872201787	Tarea2Qt_autogen/mocs_compilation.cpp	467fc6865e9275ee
+15	386	7484242872201787	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/Tarea2Qt_autogen/mocs_compilation.cpp	467fc6865e9275ee
+15	386	7484242872201787	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/Tarea2Qt_autogen/timestamp	467fc6865e9275ee
+13843	91461	7484227335632460	Tarea2Qt.exe	f3b91861a5731d04
+26	1081	7484244346405092	build.ninja	3730a7da12724da1
+491	1393	7484242882271760	CMakeFiles/Tarea2Qt.dir/sorts.cpp.obj	8c8c16e67d0e521b
+831	2264	7484226446420724	CMakeFiles/Tarea2Qt.dir/ListaSimple.cpp.obj	648306a90510b395
+20	5000	7484244480269652	Tarea2Qt_autogen/timestamp	467fc6865e9275ee
+20	5000	7484244480269652	Tarea2Qt_autogen/mocs_compilation.cpp	467fc6865e9275ee
+20	5000	7484244480269652	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/Tarea2Qt_autogen/timestamp	467fc6865e9275ee
+20	5000	7484244480269652	E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/Tarea2Qt_autogen/mocs_compilation.cpp	467fc6865e9275ee
+5024	6127	7484244493359664	CMakeFiles/Tarea2Qt.dir/ListaSimple.cpp.obj	648306a90510b395
+5006	6137	7484244493369662	CMakeFiles/Tarea2Qt.dir/sorts.cpp.obj	8c8c16e67d0e521b
+5012	20667	7484244638864489	CMakeFiles/Tarea2Qt.dir/main.cpp.obj	654d457964fe4db8
+5001	31135	7484244742049959	CMakeFiles/Tarea2Qt.dir/Tarea2Qt_autogen/mocs_compilation.cpp.obj	47c3ae37c18ad7c3
+5018	46810	7484244899793804	CMakeFiles/Tarea2Qt.dir/lib/qcustomplot.cpp.obj	c604373286d4ee13
+46810	136607	7484245795154380	Tarea2Qt.exe	f3b91861a5731d04

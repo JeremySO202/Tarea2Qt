@@ -1,0 +1,5 @@
+"E:\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=E:/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_PREFIX_PATH=E:\Qt\6.7.2\mingw_64 -G Ninja -S "E:\Escritorio\OneDrive - Estudiantes ITCR\TEC\Curso 2024\II Semestre\Datos 2\Tareas\Tarea2Qt" -B "E:\Escritorio\OneDrive - Estudiantes ITCR\TEC\Curso 2024\II Semestre\Datos 2\Tareas\Tarea2Qt\cmake-build-release"
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-release

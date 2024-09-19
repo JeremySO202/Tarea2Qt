@@ -1,0 +1,5 @@
+E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/CMakeFiles/Tarea2Qt.dir
+E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/CMakeFiles/Tarea2Qt_autogen_timestamp_deps.dir
+E:/Escritorio/OneDrive - Estudiantes ITCR/TEC/Curso 2024/II Semestre/Datos 2/Tareas/Tarea2Qt/cmake-build-debug/CMakeFiles/Tarea2Qt_autogen.dir
